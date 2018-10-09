@@ -5,4 +5,4 @@ Interestingly, in [Stark publication](http://emboj.embopress.org/content/37/16/e
 We found the same using our predictor!!
 
 
-[1](#Addgene ID 71169, section Cloning of luciferase reporter vectors of [this](https://www.nature.com/articles/nature15545) publication.
+[1]: Addgene ID 71169, section Cloning of luciferase reporter vectors of [this](https://www.nature.com/articles/nature15545) publication.
