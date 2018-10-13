@@ -19,7 +19,7 @@ t <- as.numeric(args[3])
 design <- cbind(C=1, TvsC=(c(rep(0,c), rep(1,t))))
 
 # normalize
-v <- voom(d*10, design, plot=TRUE)
+v <- voom(d, design, plot=TRUE)
 #v <- cpm(d*10, log=T)
 
 # linear fitting and empirical bayes
