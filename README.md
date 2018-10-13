@@ -1,3 +1,7 @@
 # SAGA
 What's the role or SAGA in transcription genomwide?
-The idea is to analyse the Differentially Expressed Genes ![spt_8_3](./Spt8_3_deg.jpg)
+
+* [initial notebook](https://htmlpreview.github.com/?github.com/FredHutch/SAGA/blob/master/notebooks.html)
+
+
+![spt_8_3](./Spt8_3_deg.jpg)
